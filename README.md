@@ -1,4 +1,4 @@
 # SmileViewDemo
 
 
-![image](https://github.com/YBill/SmileViewDemo/blob/master/gif.mp4) 
+![img](https://github.com/YBill/SmileViewDemo/blob/master/gif.mp4) 
